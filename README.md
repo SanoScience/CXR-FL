@@ -19,3 +19,6 @@ Eprint = {arXiv:2204.05203},
 }
 ```
 
+#### Poster
+
+![Poster](ICCS_2022_poster_CXR_FL.png "ICCS 2022 poster: CXR-FL")
